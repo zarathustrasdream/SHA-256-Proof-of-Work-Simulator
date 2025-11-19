@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sha256_simulator.dir/src/sha256.cpp.o -o sha256_simulator

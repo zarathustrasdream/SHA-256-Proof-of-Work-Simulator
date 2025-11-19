@@ -1,0 +1,3 @@
+/Users/thomasmcnally/Documents/SHA-256/pow_sim/build/CMakeFiles/sha256_simulator.dir
+/Users/thomasmcnally/Documents/SHA-256/pow_sim/build/CMakeFiles/edit_cache.dir
+/Users/thomasmcnally/Documents/SHA-256/pow_sim/build/CMakeFiles/rebuild_cache.dir
